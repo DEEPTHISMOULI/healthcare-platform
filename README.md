@@ -139,8 +139,3 @@ RESEND_API_KEY=your_resend_api_key
 | 6 | Admin Dashboard + Messaging |
 | 7 | AI Integration + Polish |
 | 8 | Testing + Deployment |
-
-## Contact
-
-**Developer:** Deepthi Sarvamangala Mouli  
-**Email:** deepthismouli123@gmail.com  
