@@ -6,7 +6,7 @@ A comprehensive healthcare web platform with Patient, Doctor, and Admin portals.
 
 **Client:** Dr. Narendra  
 **Developer:** Deepthi Sarvamangala Mouli  
-**Start Date:** January 2025  
+**Start Date:** January 2026  
 **Estimated Completion:** 6-8 weeks
 
 ## Features
