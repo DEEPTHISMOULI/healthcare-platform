@@ -144,4 +144,3 @@ RESEND_API_KEY=your_resend_api_key
 
 **Developer:** Deepthi Sarvamangala Mouli  
 **Email:** deepthismouli123@gmail.com  
-**Phone:** +44 7466268782
